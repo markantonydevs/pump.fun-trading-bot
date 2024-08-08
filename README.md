@@ -38,7 +38,7 @@ While Telegram bots charge fees and suffer from delays and performance issues, t
 
 ### Trading Logs
 
-![Transaction Details](https://raw.githubusercontent.com/markantonydevs/pump.fun/main/screenshot.png)
+![Transaction Details](https://raw.githubusercontent.com/markantonydevs/pump.fun-trading-bot/main/screenshot.png)
 
 ### Installation Guide
 
